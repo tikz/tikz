@@ -1,4 +1,13 @@
-### Hi there 👋
+## 👋
+
+<a href="https://www.linkedin.com/in/maurosong/">
+  <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+
+<a href="https://discord.com/users/244252094477893633">
+  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
 
 <!--
 **tikz/tikz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
