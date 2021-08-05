@@ -1,10 +1,10 @@
 ## 👋
 
-<a href="https://www.linkedin.com/in/maurosong/">
+<a href="https://www.linkedin.com/in/maurosong/" target="_blank">
   <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://discord.com/users/244252094477893633">
+<a href="https://discord.com/users/244252094477893633" target="_blank">
   <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
