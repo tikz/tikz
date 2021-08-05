@@ -8,7 +8,7 @@
   <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/discord.svg" />
 </a>
 
-<a href=http://t.me/mnsong" target="_blank">
+<a href="http://t.me/mnsong" target="_blank">
   <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
 </a>
 
