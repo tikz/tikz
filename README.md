@@ -9,11 +9,11 @@
 </a>
 
 <a href="http://t.me/mnsong" target="_blank">
-  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
+  <img align="left" alt="Mauro Song Telegram" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
 </a>
 
 <a href="https://orcid.org/0000-0002-9585-3537" target="_blank">
-  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/orcid.svg" />
+  <img align="left" alt="Mauro Song ORCID" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/orcid.svg" />
 </a>
 
 
