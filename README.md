@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Mauro Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikz&count_private=true&show_icons=true&theme=tokyonight)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ```
