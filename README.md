@@ -1,12 +1,25 @@
 ## 👋
 
 <a href="https://www.linkedin.com/in/maurosong/" target="_blank">
-  <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/linkedin.svg" />
 </a>
 
 <a href="https://discord.com/users/244252094477893633" target="_blank">
-  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/discord.svg" />
 </a>
+
+<a href="https://steamcommunity.com/id/tikz" target="_blank">
+  <img align="left" alt="Tik's Steam" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/steam.svg" />
+</a>
+
+<a href="http://t.me/mnsong" target="_blank">
+  <img align="left" alt="Mauro Song Telegram" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
+</a>
+
+<a href="https://orcid.org/0000-0002-9585-3537" target="_blank">
+  <img align="left" alt="Mauro Song ORCID" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/orcid.svg" />
+</a>
+
 
 <br />
 <br />
