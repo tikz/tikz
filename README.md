@@ -8,6 +8,10 @@
   <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/discord.svg" />
 </a>
 
+<a href="https://steamcommunity.com/id/tikz" target="_blank">
+  <img align="left" alt="Tik's Steam" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/steam.svg" />
+</a>
+
 <a href="http://t.me/mnsong" target="_blank">
   <img align="left" alt="Mauro Song Telegram" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
 </a>
