@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Mauro Song's GitHub stats](https://github-readme-stats.vercel.app/api?username=tikz&count_private=true)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css)](https://github.com/anuraghazra/github-readme-stats)
 
