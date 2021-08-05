@@ -20,8 +20,6 @@
   <img align="left" alt="Mauro Song ORCID" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/orcid.svg" />
 </a>
 
-
-<br />
 <br />
 <br />
 
