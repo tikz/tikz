@@ -1,4 +1,4 @@
-## 👋
+### Mauro Song
 
 <a href="https://www.linkedin.com/in/maurosong/" target="_blank">
   <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/linkedin.svg" />
