@@ -20,8 +20,8 @@
 
 -----------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tikz&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css&theme=tokyonight&langs_count=6&count_private=true" />
+<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tikz&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" /></a>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css&theme=tokyonight&langs_count=6&count_private=true" /></a>
 
 -----------------
 
