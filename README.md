@@ -4,10 +4,6 @@
   <img align="left" alt="Mauro Song LinkedIn" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://discord.com/users/244252094477893633" target="_blank">
-  <img align="left" alt="Tik's Discord" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/discord.svg" />
-</a>
-
 <a href="http://t.me/mnsong" target="_blank">
   <img align="left" alt="Mauro Song Telegram" width="22px" src="https://raw.githubusercontent.com/tikz/tikz/master/assets/telegram.svg" />
 </a>
@@ -20,7 +16,7 @@
 
 -----------------
 
-<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tikz&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" /></a>
+<!-- <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=tikz&count_private=true&show_icons=true&hide=contribs&theme=tokyonight" /></a> -->
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tikz&layout=compact&hide=jupyter%20notebook,css&theme=tokyonight&langs_count=6&count_private=true" /></a>
 
 -----------------
